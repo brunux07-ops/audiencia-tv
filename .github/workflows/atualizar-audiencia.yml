@@ -1,18 +1,41 @@
-name: Testar atualizacao de audiencia
+name: Atualizar audiencia Nielsen
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '50 11 * * *'
 
 permissions:
-  contents: read
+  contents: write
+
+concurrency:
+  group: audiencia-atualizacao
+  cancel-in-progress: false
 
 jobs:
-  testar:
+  atualizar:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: pip install requests beautifulsoup4 openpyxl
-      - run: python atualizar.py
+      - name: Instalar dependencias
+        run: pip install requests beautifulsoup4 openpyxl
+      - name: Consultar novas audiencias
+        run: python atualizar.py
+      - name: Preservar visual do painel atual
+        run: git restore -- index.html
+      - name: Publicar dados confirmados e Excel
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dados.json
+          if [ -f audiencia.xlsx ]; then git add audiencia.xlsx; fi
+          if ! git diff --cached --quiet; then
+            git commit -m "Atualizar dados de audiencia Nielsen"
+            git push
+          else
+            echo "Nenhuma audiencia nova confirmada."
+          fi
