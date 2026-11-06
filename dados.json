@@ -1,6 +1,413 @@
 {
   "registros": [
     {
+      "data": "2026-11-02",
+      "horario": "8 PM",
+      "programa": "Dancing with the Stars",
+      "rede": "ABC",
+      "rating": "1.53",
+      "publico": null,
+      "tipo": "",
+      "obs": "parcial",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/monday-tv-ratings-11226-st-denis.html"
+    },
+    {
+      "data": "2026-11-02",
+      "horario": "8 PM",
+      "programa": "FBI",
+      "rede": "CBS",
+      "rating": "0.32",
+      "publico": null,
+      "tipo": "",
+      "obs": "parcial",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/monday-tv-ratings-11226-st-denis.html"
+    },
+    {
+      "data": "2026-11-02",
+      "horario": "8 PM",
+      "programa": "St. Denis Medical",
+      "rede": "NBC",
+      "rating": "0.28",
+      "publico": "2.25",
+      "tipo": "Estreia",
+      "obs": "",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/monday-tv-ratings-11226-st-denis.html"
+    },
+    {
+      "data": "2026-11-02",
+      "horario": "8 PM",
+      "programa": "Name That Tune",
+      "rede": "FOX",
+      "rating": "0.17",
+      "publico": null,
+      "tipo": "",
+      "obs": "parcial",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/monday-tv-ratings-11226-st-denis.html"
+    },
+    {
+      "data": "2026-11-02",
+      "horario": "8 PM",
+      "programa": "Private Eyes West Coast",
+      "rede": "CW",
+      "rating": "0.03",
+      "publico": null,
+      "tipo": "",
+      "obs": "parcial",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/monday-tv-ratings-11226-st-denis.html"
+    },
+    {
+      "data": "2026-11-02",
+      "horario": "8:30 PM",
+      "programa": "The Fall and Rise of Reggie Dinkins",
+      "rede": "NBC",
+      "rating": "0.18",
+      "publico": "1.44",
+      "tipo": "Estreia",
+      "obs": "",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/monday-tv-ratings-11226-st-denis.html"
+    },
+    {
+      "data": "2026-11-02",
+      "horario": "9 PM",
+      "programa": "CIA",
+      "rede": "CBS",
+      "rating": "0.24",
+      "publico": null,
+      "tipo": "",
+      "obs": "parcial",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/monday-tv-ratings-11226-st-denis.html"
+    },
+    {
+      "data": "2026-11-02",
+      "horario": "9 PM",
+      "programa": "The Voice",
+      "rede": "NBC",
+      "rating": "0.19",
+      "publico": "2.80",
+      "tipo": "",
+      "obs": "",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/monday-tv-ratings-11226-st-denis.html"
+    },
+    {
+      "data": "2026-11-02",
+      "horario": "9 PM",
+      "programa": "Celebrity Weakest Link",
+      "rede": "FOX",
+      "rating": "0.17",
+      "publico": null,
+      "tipo": "",
+      "obs": "parcial",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/monday-tv-ratings-11226-st-denis.html"
+    },
+    {
+      "data": "2026-11-02",
+      "horario": "9 PM",
+      "programa": "Law & Order Toronto: Criminal Intent",
+      "rede": "CW",
+      "rating": "0.02",
+      "publico": null,
+      "tipo": "",
+      "obs": "parcial",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/monday-tv-ratings-11226-st-denis.html"
+    },
+    {
+      "data": "2026-11-02",
+      "horario": "10 PM",
+      "programa": "Shark Tank",
+      "rede": "ABC",
+      "rating": "0.22",
+      "publico": null,
+      "tipo": "Reprise",
+      "obs": "parcial",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/monday-tv-ratings-11226-st-denis.html"
+    },
+    {
+      "data": "2026-11-02",
+      "horario": "10 PM",
+      "programa": "Harlan Coben's Final Twist",
+      "rede": "CBS",
+      "rating": "0.13",
+      "publico": null,
+      "tipo": "",
+      "obs": "parcial",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/monday-tv-ratings-11226-st-denis.html"
+    },
+    {
+      "data": "2026-10-30",
+      "horario": "8 PM",
+      "programa": "Sheriff Country",
+      "rede": "CBS",
+      "rating": "0.30",
+      "publico": "5.33",
+      "tipo": "",
+      "obs": "",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/friday-tv-ratings-103026-happys-place.html"
+    },
+    {
+      "data": "2026-10-30",
+      "horario": "8 PM",
+      "programa": "Happy's Place",
+      "rede": "NBC",
+      "rating": "0.25",
+      "publico": "3.13",
+      "tipo": "",
+      "obs": "",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/friday-tv-ratings-103026-happys-place.html"
+    },
+    {
+      "data": "2026-10-30",
+      "horario": "8 PM",
+      "programa": "The Dropout - Who Is Elizabeth Holmes?",
+      "rede": "ABC",
+      "rating": "0.24",
+      "publico": "2.17",
+      "tipo": "",
+      "obs": "",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/friday-tv-ratings-103026-happys-place.html"
+    },
+    {
+      "data": "2026-10-30",
+      "horario": "8 PM",
+      "programa": "Best Medicine",
+      "rede": "FOX",
+      "rating": null,
+      "publico": null,
+      "tipo": "Reprise",
+      "obs": "parcial",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/friday-tv-ratings-103026-happys-place.html"
+    },
+    {
+      "data": "2026-10-30",
+      "horario": "8 PM",
+      "programa": "Goosebumps",
+      "rede": "CW",
+      "rating": null,
+      "publico": null,
+      "tipo": "",
+      "obs": "parcial",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/friday-tv-ratings-103026-happys-place.html"
+    },
+    {
+      "data": "2026-10-30",
+      "horario": "8:30 PM",
+      "programa": "Newlyweds",
+      "rede": "NBC",
+      "rating": "0.21",
+      "publico": "3.05",
+      "tipo": "",
+      "obs": "",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/friday-tv-ratings-103026-happys-place.html"
+    },
+    {
+      "data": "2026-10-30",
+      "horario": "9 PM",
+      "programa": "Fire Country",
+      "rede": "CBS",
+      "rating": "0.24",
+      "publico": "4.21",
+      "tipo": "",
+      "obs": "",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/friday-tv-ratings-103026-happys-place.html"
+    },
+    {
+      "data": "2026-10-30",
+      "horario": "9 PM",
+      "programa": "20/20",
+      "rede": "ABC",
+      "rating": "0.22",
+      "publico": "2.09",
+      "tipo": "",
+      "obs": "",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/friday-tv-ratings-103026-happys-place.html"
+    },
+    {
+      "data": "2026-10-30",
+      "horario": "9 PM",
+      "programa": "Dateline NBC",
+      "rede": "NBC",
+      "rating": "0.22",
+      "publico": "2.41",
+      "tipo": "",
+      "obs": "",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/friday-tv-ratings-103026-happys-place.html"
+    },
+    {
+      "data": "2026-10-30",
+      "horario": "9 PM",
+      "programa": "Doc",
+      "rede": "FOX",
+      "rating": null,
+      "publico": null,
+      "tipo": "Reprise",
+      "obs": "parcial",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/friday-tv-ratings-103026-happys-place.html"
+    },
+    {
+      "data": "2026-10-30",
+      "horario": "10 PM",
+      "programa": "Boston Blue",
+      "rede": "CBS",
+      "rating": "0.19",
+      "publico": "3.95",
+      "tipo": "",
+      "obs": "",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/friday-tv-ratings-103026-happys-place.html"
+    },
+    {
+      "data": "2026-10-29",
+      "horario": "8 PM",
+      "programa": "9-1-1",
+      "rede": "ABC",
+      "rating": "0.41",
+      "publico": "4.02",
+      "tipo": "",
+      "obs": "",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/thursday-tv-ratings-102926-ghosts.html"
+    },
+    {
+      "data": "2026-10-29",
+      "horario": "8 PM",
+      "programa": "Georgie & Mandy's First Marriage",
+      "rede": "CBS",
+      "rating": "0.37",
+      "publico": "5.38",
+      "tipo": "",
+      "obs": "",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/thursday-tv-ratings-102926-ghosts.html"
+    },
+    {
+      "data": "2026-10-29",
+      "horario": "8 PM",
+      "programa": "The Traitors: New Blood",
+      "rede": "NBC",
+      "rating": "0.30",
+      "publico": "2.16",
+      "tipo": "",
+      "obs": "",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/thursday-tv-ratings-102926-ghosts.html"
+    },
+    {
+      "data": "2026-10-29",
+      "horario": "8 PM",
+      "programa": "Hell's Kitchen",
+      "rede": "FOX",
+      "rating": "0.19",
+      "publico": "1.55",
+      "tipo": "",
+      "obs": "",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/thursday-tv-ratings-102926-ghosts.html"
+    },
+    {
+      "data": "2026-10-29",
+      "horario": "8 PM",
+      "programa": "Scrabble",
+      "rede": "CW",
+      "rating": null,
+      "publico": "0.46",
+      "tipo": "",
+      "obs": "parcial",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/thursday-tv-ratings-102926-ghosts.html"
+    },
+    {
+      "data": "2026-10-29",
+      "horario": "8:30 PM",
+      "programa": "Eternally Yours",
+      "rede": "CBS",
+      "rating": "0.29",
+      "publico": "3.68",
+      "tipo": "",
+      "obs": "",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/thursday-tv-ratings-102926-ghosts.html"
+    },
+    {
+      "data": "2026-10-29",
+      "horario": "9 PM",
+      "programa": "9-1-1: Nashville",
+      "rede": "ABC",
+      "rating": "0.32",
+      "publico": "3.23",
+      "tipo": "",
+      "obs": "",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/thursday-tv-ratings-102926-ghosts.html"
+    },
+    {
+      "data": "2026-10-29",
+      "horario": "9 PM",
+      "programa": "Ghosts",
+      "rede": "CBS",
+      "rating": "0.31",
+      "publico": "4.04",
+      "tipo": "Estreia",
+      "obs": "",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/thursday-tv-ratings-102926-ghosts.html"
+    },
+    {
+      "data": "2026-10-29",
+      "horario": "9 PM",
+      "programa": "Law & Order: SVU",
+      "rede": "NBC",
+      "rating": "0.23",
+      "publico": "2.81",
+      "tipo": "",
+      "obs": "",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/thursday-tv-ratings-102926-ghosts.html"
+    },
+    {
+      "data": "2026-10-29",
+      "horario": "9 PM",
+      "programa": "Special Forces: World's Toughest Test",
+      "rede": "FOX",
+      "rating": "0.17",
+      "publico": "1.22",
+      "tipo": "",
+      "obs": "",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/thursday-tv-ratings-102926-ghosts.html"
+    },
+    {
+      "data": "2026-10-29",
+      "horario": "9 PM",
+      "programa": "Trivial Pursuit",
+      "rede": "CW",
+      "rating": null,
+      "publico": "0.50",
+      "tipo": "",
+      "obs": "parcial",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/thursday-tv-ratings-102926-ghosts.html"
+    },
+    {
+      "data": "2026-10-29",
+      "horario": "10 PM",
+      "programa": "Grey's Anatomy",
+      "rede": "ABC",
+      "rating": "0.24",
+      "publico": "2.20",
+      "tipo": "",
+      "obs": "",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/thursday-tv-ratings-102926-ghosts.html"
+    },
+    {
+      "data": "2026-10-29",
+      "horario": "10 PM",
+      "programa": "Law & Order",
+      "rede": "NBC",
+      "rating": "0.19",
+      "publico": "2.27",
+      "tipo": "",
+      "obs": "",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/thursday-tv-ratings-102926-ghosts.html"
+    },
+    {
+      "data": "2026-10-29",
+      "horario": "10 PM",
+      "programa": "Cupertino",
+      "rede": "CBS",
+      "rating": "0.15",
+      "publico": "2.86",
+      "tipo": "",
+      "obs": "",
+      "fonte": "https://www.thetvratingsguide.com/2026/11/thursday-tv-ratings-102926-ghosts.html"
+    },
+    {
       "data": "2026-10-28",
       "horario": "8:30 PM",
       "programa": "Abbott Elementary",
@@ -3693,5 +4100,5 @@
       "motivo": "Acesso indisponivel ou tabela nao interpretada; tentar novamente"
     }
   ],
-  "ultima_verificacao": "2026-11-03"
+  "ultima_verificacao": "2026-11-06"
 }
